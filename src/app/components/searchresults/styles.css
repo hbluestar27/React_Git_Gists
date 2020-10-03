@@ -1,0 +1,15 @@
+.results-box {
+    height: 700px;
+    overflow: auto;
+}
+.results-box.loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.status-box {
+    margin: 20px 0;
+    border: 1px solid #9a9a9a;
+    background-color: #efefef;
+    padding: 5px 15px;
+}
