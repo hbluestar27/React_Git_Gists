@@ -5,8 +5,8 @@ Using the API below, which will fetch Github gists, display each user’s avatar
 The list needs to be high performance, well structured, and easy to maintain.
 You can use start will ReactJS template project using CLI: create-react-app TestOne
     In each row:
-    ● Profile Image is from (array[n].owner.avatar_url)
-    ● File Name is from (array[n].files.xxx)
+        ● Profile Image is from (array[n].owner.avatar_url) <br/>
+        ● File Name is from (array[n].files.xxx)
 
 API: https://api.github.com/gists/public
 API Doc: ​https://developer.github.com/v3/gists/#list-all-public-gists
