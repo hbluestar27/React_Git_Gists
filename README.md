@@ -22,3 +22,5 @@ Requirements: <br/>
     ● Indicator to show loading state while the next page data is being fetched <br/>
     ● Scroll to the top when the next page is loaded <br/>
     ● When a row is clicked, the corresponding title should change its color, and picture should get darker to indicate a pressed state <br/>
+
+<img src="./screen.png">
